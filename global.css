@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+
+#wrapper {width:1024px;
+         margin-left:auto; 
+         margin-right:auto;
+         margin-top:0;
+         margin-bottom:0;
+         padding:0;
+}
+
+#main {
+      background-color:#B5D8FF;
+      min-height: 730px;
+      margin-left:auto; 
+      margin-right:auto;
+      margin-top:0;
+      margin-bottom:0;
+      padding:0;
+}
+
+fieldset {	
+    margin: 0;
+    padding: 0;
+    border-style: none;
+	font-family: "Aller Light", sans-serif;
+	font-size:18px;
+    
+    
+    }
+
+legend {
+    padding:0 0 .125em 0;
+	margin-left:.25em;
+	
+	overflow:visible;
+	width:95%;
+	color: #fff;
+	font-family: "Aller Display", sans-serif;
+	font-size:72px;
+	text-shadow: 0.05em 0.05em #121422;
+	
+	border-bottom: 5px solid #000;
+}
+
+fieldset ol {
+	padding: 1em 0 0 10em;
+	margin:0;
+    list-style: none;
+	
+}
+
+fieldset li {
+	
+	width: 95%;
+    padding-bottom: 1em;
+	margin:0;
+	padding:0;
+}
+
+input {margin-left:9em;
+}
+
+textarea {margin-left:16em;
+		
+}
+
+button {
+	font-family: "Aller Disply", sans-serif;
+	font-size:36px;
+	padding:15px;
+	background:#FFF;
+	margin-left:19em;
+	-webkit-border-radius: 25px;
+     -moz-border-radius: 25px;
+    border-radius: 25px;
+	
+	}
